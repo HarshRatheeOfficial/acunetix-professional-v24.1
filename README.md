@@ -1,7 +1,7 @@
 # acunetix-professional-v24.1
 Acunetix is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting and other exploitable vulnerabilities.
 
-##Setup:##
+## Setup:
   1. Download Acunetix Professional
   ```
      git clone https://github.com/xiv3r/Acunetix-Professional-v24.1.git
