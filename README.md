@@ -8,7 +8,7 @@ Acunetix is an automated web application security testing tool that audits your 
 
      cd Acunetix-Professional-v24.1
 
-     wget https://github.com/xiv3r/Acunetix-Professional-v24.1/releases/download/Acunetix/acunetix_24.1.240111130_x64.sh
+     wget https://github.com/HarshRatheeOfficial/acunetix-professional-v24.1/releases/download/Acunetix/acunetix_24.1.240111130_x64.sh
 ```
  2. Before installing the tool, add to your hosts file (nano /etc/hosts) at the end:
     ```
